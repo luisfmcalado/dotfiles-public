@@ -20,6 +20,15 @@ return {
 				"scss",
 				"sql",
 				"svelte",
+				"elixir",
+				"heex",
+				"eex",
+				"lua",
+			},
+
+			highlight = {
+				enable = true,
+				disable = { "lua" },
 			},
 
 			-- matchup = {
