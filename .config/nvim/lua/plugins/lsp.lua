@@ -18,6 +18,9 @@ return {
 		end,
 	},
 
+	-- java lsp extensions for eclipse
+	{ "mfussenegger/nvim-jdtls" },
+
 	-- lsp servers
 	{
 		"neovim/nvim-lspconfig",

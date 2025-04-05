@@ -24,6 +24,9 @@ return {
 				"heex",
 				"eex",
 				"lua",
+				"vim",
+				"c",
+				"java",
 			},
 
 			highlight = {
